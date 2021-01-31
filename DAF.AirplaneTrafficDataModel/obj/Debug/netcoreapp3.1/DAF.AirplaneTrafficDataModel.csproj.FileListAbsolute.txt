@@ -6,4 +6,3 @@ D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp
 D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.dll
 D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.pdb
 D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.csproj.CoreCompileInputs.cache
-D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.csprojAssemblyReference.cache
