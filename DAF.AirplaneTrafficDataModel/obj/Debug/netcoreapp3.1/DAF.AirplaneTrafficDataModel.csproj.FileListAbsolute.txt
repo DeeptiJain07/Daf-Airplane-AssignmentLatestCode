@@ -1,0 +1,9 @@
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\bin\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.deps.json
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\bin\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.dll
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\bin\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.pdb
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.AssemblyInfoInputs.cache
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.AssemblyInfo.cs
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.dll
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.pdb
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.csproj.CoreCompileInputs.cache
+D:\DAF\DAF.AirplaneTrafficData\DAF.AirplaneTrafficDataModel\obj\Debug\netcoreapp3.1\DAF.AirplaneTrafficDataModel.csprojAssemblyReference.cache

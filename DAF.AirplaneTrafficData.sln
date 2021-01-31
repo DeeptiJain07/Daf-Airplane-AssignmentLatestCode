@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAF.AirplaneTrafficData", "DAF.AirplaneTrafficData\DAF.AirplaneTrafficData.csproj", "{88E04D84-9277-495E-A74A-DB397311B2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAF.AirplaneTrafficDataModel", "DAF.AirplaneTrafficDataModel\DAF.AirplaneTrafficDataModel.csproj", "{2F0C0611-9EF7-4D34-A97F-2DFC58250EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E04D84-9277-495E-A74A-DB397311B2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E04D84-9277-495E-A74A-DB397311B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E04D84-9277-495E-A74A-DB397311B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E04D84-9277-495E-A74A-DB397311B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0C0611-9EF7-4D34-A97F-2DFC58250EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0C0611-9EF7-4D34-A97F-2DFC58250EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0C0611-9EF7-4D34-A97F-2DFC58250EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0C0611-9EF7-4D34-A97F-2DFC58250EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381AE2BB-F522-4430-8E32-5CBA86706839}
+	EndGlobalSection
+EndGlobal
